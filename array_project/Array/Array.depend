@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588444591 source:c:\users\antonios nasser\desktop\c projects\c-projects\array_project\array\stats.c
+	"stats.h"
+
+1588444571 c:\users\antonios nasser\desktop\c projects\c-projects\array_project\array\stats.h
+
+1588443516 source:c:\users\antonios nasser\desktop\c projects\c-projects\array_project\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stats.h"
+
